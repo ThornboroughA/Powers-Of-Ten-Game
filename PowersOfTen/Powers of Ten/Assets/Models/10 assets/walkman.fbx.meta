@@ -3,68 +3,13 @@ guid: 83466cbd1c3e942808169d56c0a4bf00
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: pCube142
-    100002: pCube143
-    100004: pCube144
-    100006: pCube145
-    100008: pCube146
-    100010: pCube147
-    100012: pCube148
-    100014: pCube149
-    100016: pCube150
-    100018: pCube151
-    100020: pCube152
-    100022: pCube153
-    100024: pCube155
-    100026: transform115
-    100028: transform116
-    100030: transform117
-    100032: transform118
-    100034: transform119
-    100036: transform120
-    100038: transform121
-    100040: transform122
-    100042: transform123
-    100044: transform124
-    100046: transform125
-    100048: transform126
-    100050: //RootNode
-    400000: pCube142
-    400002: pCube143
-    400004: pCube144
-    400006: pCube145
-    400008: pCube146
-    400010: pCube147
-    400012: pCube148
-    400014: pCube149
-    400016: pCube150
-    400018: pCube151
-    400020: pCube152
-    400022: pCube153
-    400024: pCube155
-    400026: transform115
-    400028: transform116
-    400030: transform117
-    400032: transform118
-    400034: transform119
-    400036: transform120
-    400038: transform121
-    400040: transform122
-    400042: transform123
-    400044: transform124
-    400046: transform125
-    400048: transform126
-    400050: //RootNode
+    100000: //RootNode
+    400000: //RootNode
     2100000: sony_walkman
-    2300000: pCube155
-    3300000: pCube155
-    4300000: pCube155
-  externalObjects:
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: sony_walkman2
-    second: {fileID: 2800000, guid: d7e97d932b9b0425aae3205ae6b9bb26, type: 3}
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: polySurface30
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0

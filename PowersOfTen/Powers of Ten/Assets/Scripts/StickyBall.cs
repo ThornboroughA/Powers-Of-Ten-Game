@@ -258,9 +258,11 @@ public class StickyBall : MonoBehaviour
             {
 
                 // Grow the Sticky Ball
-                colliderObject.transform.localScale += new Vector3(0.02f, 0.02f, 0.02f);
-                size += 0.1f;
-            
+                if (size < 10.1) //the control was getting really unweildy for me when it got too big
+                {
+                    colliderObject.transform.localScale += new Vector3(0.02f, 0.02f, 0.02f);
+                    size += 0.1f;
+                }
 
                 // Disable so that the objects will only stick to your sphere
                 other.enabled = false;

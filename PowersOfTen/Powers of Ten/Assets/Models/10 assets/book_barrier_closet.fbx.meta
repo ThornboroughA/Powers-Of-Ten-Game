@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: b6e8f9847b7b04a84aca868989e65353
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube340
+    100004: pCube341
+    100006: pCube342
+    100008: pCube343
+    100010: pCube345
+    100012: pCube346
+    100014: pCube347
+    100016: pCube348
+    100018: pCube349
+    100020: pCube350
+    100022: pCube351
+    100024: pCube352
+    100026: pCube353
+    100028: pCube354
+    100030: pCube355
+    100032: pCube356
+    100034: polySurface1308
+    100036: polySurface1309
+    400000: //RootNode
+    400002: pCube340
+    400004: pCube341
+    400006: pCube342
+    400008: pCube343
+    400010: pCube345
+    400012: pCube346
+    400014: pCube347
+    400016: pCube348
+    400018: pCube349
+    400020: pCube350
+    400022: pCube351
+    400024: pCube352
+    400026: pCube353
+    400028: pCube354
+    400030: pCube355
+    400032: pCube356
+    400034: polySurface1308
+    400036: polySurface1309
+    2100000: cloth_sheet
+    2100002: plastic_pink
+    2100004: lego_white
+    2100006: lego_yellow
+    2100008: cloth_sheet_2
+    2100010: lego_green
+    2100012: black_plastic
+    2100014: lego_light_blue
+    2300000: pCube340
+    2300002: pCube341
+    2300004: pCube342
+    2300006: pCube343
+    2300008: pCube345
+    2300010: pCube346
+    2300012: pCube347
+    2300014: pCube348
+    2300016: pCube349
+    2300018: pCube350
+    2300020: pCube351
+    2300022: pCube352
+    2300024: pCube353
+    2300026: pCube354
+    2300028: pCube355
+    2300030: pCube356
+    2300032: polySurface1308
+    2300034: polySurface1309
+    3300000: pCube340
+    3300002: pCube341
+    3300004: pCube342
+    3300006: pCube343
+    3300008: pCube345
+    3300010: pCube346
+    3300012: pCube347
+    3300014: pCube348
+    3300016: pCube349
+    3300018: pCube350
+    3300020: pCube351
+    3300022: pCube352
+    3300024: pCube353
+    3300026: pCube354
+    3300028: pCube355
+    3300030: pCube356
+    3300032: polySurface1308
+    3300034: polySurface1309
+    4300000: pCube356
+    4300002: pCube355
+    4300004: pCube354
+    4300006: pCube352
+    4300008: pCube353
+    4300010: pCube351
+    4300012: pCube347
+    4300014: polySurface1309
+    4300016: pCube349
+    4300018: pCube348
+    4300020: pCube342
+    4300022: pCube343
+    4300024: pCube341
+    4300026: pCube340
+    4300028: polySurface1308
+    4300030: pCube345
+    4300032: pCube346
+    4300034: pCube350
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
